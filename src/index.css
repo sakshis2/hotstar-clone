@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  }
+  
+  body{
+  color:#ffff;
+  background-color:#040714;
+  user-select: none;
+  }
+
+
+
+
+
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  
